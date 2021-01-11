@@ -1,0 +1,13 @@
+Repository : espace hébergé à distance
+Créer un compte github : Itsme198 / outlook / R…7
+-	Create a repository + readme
+-	Copier le lien : https://github.com/Itsme1989/Git-Intro.git
+-	Créer une copie du repository sur son pc ou en local : 
+•	Cd directory
+•	Git clone lien
+Autorisation du git credentials
+-	Pour ajouter un fichier :
+•	Aller dans repository : cd nom_repository
+•	git add. Pour tout ajouter ou git add nom_du_fichier pour une fichier en particulier (liste temporaire en attente d’envoi)
+•	
+
